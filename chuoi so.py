@@ -1,0 +1,5 @@
+chuoiso = input ( "nhập chuỗi : " )
+a = chuoiso.split ( " , " )
+b = tuple (a)
+print (a)
+print (b)
